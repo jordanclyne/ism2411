@@ -1,0 +1,5 @@
+print("Name: Jordan Clyne")
+print("Major: Accounting")
+print("Hometown: Bradenton, FL")
+print("Hobby: Piano")
+print("Reason: To learn skills that will be necessary for my future career.")
