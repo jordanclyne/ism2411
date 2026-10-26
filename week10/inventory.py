@@ -2,6 +2,16 @@
 #Author: Jordan Clyne
 #Module 10 Lab: Inventory List Manager
 
+# Reflection
+#1. The most surprising thing about how lsits work in Python to me is that 
+#lists begin indexing at 0, but end at index -1. The idea that they begin at
+#index 0 is difficult for me to remember, since that is not how I am used to counting.
+
+#2. I track the hourly sales during my job to determine what the busiest parts of the
+# day are on average. Using a Python list to store each hour's sales would be helpful 
+# for me because it would allow me to easily calculate averages, minimums, and maximums 
+# instead of inputting each value into Excel separately. 
+
 #Exercise 1: Build the list
 inventory = ["pen", "notebook", "stapler", "tape", "marker"]
 print(inventory)
